@@ -8,8 +8,8 @@
 <tt>Contact:</tt> (83) 99695-5470</h5>
 <div align="left">
   <a href="https://github.com/wagner-dantas">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=wagner-dantas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-dantas&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wagner-dantas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-dantas&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 </div>
   <div style="display":"inline_block"><br>
