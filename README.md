@@ -6,7 +6,9 @@
 -📫 How to reach me:<br>
 <tt>E-mail:</tt> wagner-hora@hotmail.com<br>
 <tt>LinkedIn:</tt> (https://www.linkedin.com/in/wagner-dantas-078878197)<br>
-<tt>Contact:</tt> (83) 99695-5470</h5>
+<tt>Contact:</tt> (83) 99695-5470<br>
+<tt>Curriculo Lattes:</tt> (http://lattes.cnpq.br/3246241735403488)
+</h5>
 <div align="left">
   <a href="https://github.com/wagner-dantas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagner-dantas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
