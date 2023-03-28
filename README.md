@@ -1,7 +1,7 @@
 
 <h3>Olá! Eu sou <tt>Wagner Dantas Martins</tt></h3>
 <h5>-🔭 I’m currently working on Prefeitura Municipal de Santa Luzia - PB<br>
--🌱 I’m currently learning Ciências da Computação na UEPB<br>
+-🌱 I’m currently learning constant learning in programming languages<br>
 -🤔 I’m looking for help with "💻Programming💻"<br>
 -📫 How to reach me:<br>
 <tt>E-mail:</tt> wagner-hora@hotmail.com<br>
